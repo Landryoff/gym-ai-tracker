@@ -1,0 +1,83 @@
+{
+    "routine": [
+        {
+            "name": "Barbell Bench Press",
+            "target_reps": 8,
+            "weight": 60.0
+        },
+        {
+            "name": "Barbell Bent-Over Row",
+            "target_reps": 8,
+            "weight": 50.0
+        },
+        {
+            "name": "Seated Dumbbell Overhead Press",
+            "target_reps": 8,
+            "weight": 20.0
+        },
+        {
+            "name": "Pull-Ups",
+            "target_reps": 8,
+            "weight": 0.0
+        },
+        {
+            "name": "Dumbbell Flyes",
+            "target_reps": 10,
+            "weight": 12.0
+        },
+        {
+            "name": "Dumbbell Side Lateral Raise",
+            "target_reps": 12,
+            "weight": 8.0
+        },
+        {
+            "name": "Skull Crushers",
+            "target_reps": 8,
+            "weight": 20.0
+        },
+        {
+            "name": "Dumbbell Curls",
+            "target_reps": 10,
+            "weight": 12.0
+        },
+        {
+            "name": "Barbell Back Squat",
+            "target_reps": 8,
+            "weight": 80.0
+        },
+        {
+            "name": "Romanian Deadlift",
+            "target_reps": 8,
+            "weight": 70.0
+        },
+        {
+            "name": "Bulgarian Split Squat",
+            "target_reps": 8,
+            "weight": 20.0
+        },
+        {
+            "name": "Hip Thrust",
+            "target_reps": 10,
+            "weight": 60.0
+        }
+    ],
+    "sessions": [
+        {
+            "date": "2026-10-27",
+            "exercises": [
+                {
+                    "name": "Barbell Bench Press",
+                    "target_reps": 11,
+                    "weight": 10.0,
+                    "actual_reps": 7
+                },
+                {
+                    "name": "Barbell Bench Press",
+                    "target_reps": 7,
+                    "weight": 10.0,
+                    "actual_reps": 9
+                }
+            ]
+        }
+    ]
+}
